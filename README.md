@@ -4,8 +4,7 @@
 	Here's more about me
 	
 	- 🔭 I’m currently working as - Software Engineer @AllState
-	- 💼 Previously worked as Senior iOS Developer at Tatvasoft ( https://www.tatvasoft.com/?utm_source=googlemybusiness&utm_medium=GMB_India&utm_campaign=GoogleMyBusiness )
-  
+	- 💼 Previously worked as Senior iOS Developer at Tatvasoft ( https://www.tatvasoft.com)  
 	- 🌱 I’m currently learning - Swift-UI, CarPlay, Tech in DevOps
 	- 👯 I’m looking to collaborate on - Cloud Native Automation Projects
 	- 🤔 I’m looking for help with - Always up for something new. Ping me for any tech discussion.
