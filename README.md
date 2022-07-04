@@ -1,7 +1,5 @@
 #### Hi there 👋	
-	My name is [Jay Parmani](https://linkedin.com/in/jsparmani). I'm a Full Stack Developer and interested in cloud native automation.
-	
-	I am currently in my Final Year B.E. 💻 at [Thapar Institute of Engineering and Technology](https://thapar.edu)
+	My name is [Sagar Prajapati](https://www.linkedin.com/in/sagar-prajapati-72279213b). I'm a Senior iOS Developer and interested in native iOS Development.
 	
 	Here's more about me
 	
